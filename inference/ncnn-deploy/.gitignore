@@ -1,0 +1,10 @@
+# cmake
+*.user
+# model
+*.pt
+*.pth
+*.onnx
+# folder
+__pycache__
+build*
+
